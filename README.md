@@ -1,48 +1,62 @@
-# 📝 To-Do List Web App
+# ✅ To Do List 
 
-A simple and responsive **To-Do List** web application built using **HTML**, **CSS**, and **JavaScript**. Users can add tasks with due dates, delete them individually, and manage their tasks in a clean UI.
+A simple and responsive **To-Do List** web app built using **HTML**, **CSS**, and **JavaScript**.  
+Helps users add, manage, and remove daily tasks efficiently.
 
 ---
 
 ## 📌 Features
 
-- ✅ Add new to-do items with due dates  
-- 🗑️ Delete individual tasks  
-- 🎯 Clean and centered layout  
-- 📱 Responsive and user-friendly interface  
+- ✅ Add new tasks
+- ✅ Mark tasks as completed
+- ✅ Delete individual tasks
+- ✅ Automatically updates UI in real-time
+- ✅ Clean and user-friendly interface
 
 ---
 
+## 🛠️ Technologies Used
 
-## 🚀 Getting Started
-
-Follow these instructions to run the project locally.
-
-### 1. Clone the repository
-
-```bash
-git  https://github.com/Prashant-Pal23/todo-list.git
-cd todo-list-app
+- **HTML** – Markup and structure  
+- **CSS** – Styling and layout  
+- **JavaScript (todo.js)** – App logic and interactivity
 
 ---
 
-📁 Project Structure
+## 📸 Screenshot
 
-todo-list-/
-│
-├── index.html       # Main HTML file
-├── style.css        # CSS styling
-├── todo.js          # JavaScript logic
-└── README.md        # Project documentation
+<img src="screenshot.png" alt="To Do List  Screenshot" width="500"/>
 
 ---
 
-🌐 Live Demo 
+## 📂 Project Structure
 
- LINK-- https://prashant-pal23.github.io/todo-list/
+to-do-list/
+├── index.html # Main HTML structure
+├── style.css # Styles for the app
+├── todo.js # JavaScript logic
+├── screenshot.png # App screenshot
+├── LICENSE # License file
+└── README.md # Project documentation
 
+---
 
- 📄 License
+## 📸 Screenshot
+
+<img src="screenshot.png" alt="TO-DO-LIST Screenshot" width="500"/>
+
+---
+
+## 🚀 Live Demo
+
+Try it here: (https://prashant-pal23.github.io/todo-list/)
+
+> Replace `Prashant-Pal23` with your actual GitHub username.
+
+---
+
+📄 License
+
 This project is licensed under the MIT License.
 
 ---
