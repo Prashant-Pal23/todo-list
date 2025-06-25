@@ -23,12 +23,6 @@ Helps users add, manage, and remove daily tasks efficiently.
 
 ---
 
-## 📸 Screenshot
-
-<img src="screenshot.png" alt="To Do List  Screenshot" width="500"/>
-
----
-
 ## 📂 Project Structure
 
 to-do-list/
