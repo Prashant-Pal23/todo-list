@@ -49,12 +49,16 @@ Try it here: (https://prashant-pal23.github.io/todo-list/)
 
 ---
 
-📄 License
+## 🙋 Author
 
-This project is licensed under the MIT License.
+**Prashant Pal**  
+🔗 [GitHub Profile](https://github.com/Prashant-Pal23)
 
 ---
 
-✨ Author
+## 📜 License
 
-Prashant Pal
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to fork, improve, and share!
+
